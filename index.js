@@ -1,5 +1,5 @@
 var sqaure = document.getElementById("square");
-    var defaultGoldColor = window.getComputedStyle(square).backgroundColor;
+    var defaultColor = window.getComputedStyle(square).backgroundColor;
 
     function hoverBlueColor(color) {
         sqaure.style.backgroundColor = color;
