@@ -1,0 +1,19 @@
+html
+    
+body {
+  height: 100%;
+  Margin: 20%;
+}
+
+ .container {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+  .child {
+    width: 250px;
+    height: 250px;
+    background-color:gold;
+
+  }
